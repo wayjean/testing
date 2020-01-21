@@ -20,8 +20,7 @@ public class TestGrid {
 		
 	try {
 			nodeUrl = "http://c0b4970c.ngrok.io/wd/hub";
-			
-			
+			//test
 			
 			DesiredCapabilities capabilities = DesiredCapabilities.chrome();
 			capabilities.setBrowserName("chrome");
